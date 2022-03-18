@@ -1,0 +1,25 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor p1",
+      "foto": "foto2.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 7000
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor senior",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 10000
+    }
+  ]
+}
